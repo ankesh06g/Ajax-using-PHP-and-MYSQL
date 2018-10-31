@@ -1,0 +1,83 @@
+/*  Outlay properties */
+
+body{
+    margin: 0;
+}
+
+.header{
+    background-color: #FFB485;
+    height: 150px;
+}
+
+.footer{
+    background-color: #FFB485;
+    height: 50px;
+    text-align: center;
+    font-size: 20px;
+    padding: 15px 0 0 0;
+}
+
+.logo{
+    color: #FF6100;
+    text-align: center;
+    font-size: 50px;
+    padding: 45px;
+}
+
+.sidemenu{
+    width: 20%;
+    float: left;
+    margin: 5px;
+}
+
+iframe{
+    width: 78.5%;
+    height:500px;
+    border: none;
+}
+
+.tab{
+    width: 95%;
+    padding: 10px 5px;
+    border: solid 1px;
+    border-color: #FF6100;
+}
+
+.tab:hover{
+    background-color: #FF6100;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+h2{
+    text-align: center;
+    padding: 10px;
+}
+
+
+/* Display table properties */
+
+    table{
+        width: 100%;
+    }
+    th{
+        background-color: #FF6100;
+    }
+    td{
+        text-align: center;
+    }
+
+
+/* Add page properties */
+
+input[type=text]{
+    width: 100%;
+    border: 1px solid #FF6100;
+    padding: 5px;
+}
+
+
+
